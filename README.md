@@ -32,5 +32,5 @@ The analysis showed a weak correlation between attendance and performance.
 
 ## 👩‍💻 Author
 
-Harshita Bansal.
+Harshita Bansal
 
